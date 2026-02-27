@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="LINK_DO_SEU_GIF_AQUI" alt="Apresentação" width="100%" />
+  <img src="https://tenor.com/pt-BR/view/bleach-shiba-isshin-kurosaki-gif-2150850624963304373" alt="Bleach Shiba Isshin" width="100%" />
   
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&style=flat-square&color=blue" alt="Contador de visitas ao perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Claud777&style=flat-square&color=blue" alt="Contador de visitas ao perfil" />
 </div>
 
 <hr>
@@ -24,7 +24,7 @@
 
 <h4>Finance Pro</h4>
 <p>
-  Aplicativo de controle financeiro desenvolvido em React Native e Expo. A estrutura lógica da aplicação é focada no gerenciamento de contas, registro e rastreamento de transações, e divisão hierárquica por categorias de despesas.
+  Aplicativo de controle financeiro desenvolvido em Flutter e Dart. A estrutura lógica da aplicação é focada no gerenciamento de contas, registro e rastreamento de transações, e divisão hierárquica por categorias de despesas.
 </p>
 
 <h4>Hunter Rotine</h4>
