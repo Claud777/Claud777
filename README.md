@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/pt-BR/view/bleach-shiba-isshin-kurosaki-gif-2150850624963304373" alt="Bleach Shiba Isshin" width="100%" />
+  <img src="https://tenor.com/pt-BR/view/bleach-shiba-isshin-kurosaki-gif-2150850624963304373" width="100%" />
   
   <br><br>
 
